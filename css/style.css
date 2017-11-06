@@ -1,0 +1,192 @@
+*{
+	
+	text-decoration:none;
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	font-weight:bold;
+	color:#DED6C4;
+
+}
+
+body{
+	background-image:url(../img/wildtextures_white-stained-wooden-boards%20%281%29.jpg) ;
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: auto;
+	height: auto;
+	padding: 75px;
+}
+
+.container{
+
+	background-color:#141313;
+	opacity: 0.92;
+	height: auto;
+	width:auto;
+	border: 2px solid #807C7C;
+	border-radius: 12px;
+	padding: 12px;
+	margin-top:10px;
+
+}
+header.container{
+	height:605px;
+	padding: 25px;
+}
+#mainphoto{
+	border: 2px solid #807C7C;
+	border-radius: 12px;
+	float:left;
+}
+
+h1{
+	font-size: 90px;
+	font-weight: bold;
+	margin-top: 150px;
+}
+
+#q1{
+	margin-left: 370px;
+	margin-top: 50px;
+	font-size: 30px;
+	width: 420px;
+	float: left;
+	text-align: left;
+	line-height: 1.5;
+	
+}
+#q1 author{
+	margin-left: 150px;
+	color:#19241B;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin-left: 175px;
+}
+
+li a {
+	font-size: 22px;
+    display: block;
+    color:#786345;
+    border:1px solid #4F4D4D;
+    border-radius: 10px;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+    font-size:;
+}
+
+li a:hover:not(.active) {
+
+    background-color:#5B5B5B;
+    border-radius: 10px;
+    color:#0D0808;
+}
+
+.active {
+
+    background-color: #1F2E1F;
+    border-radius: 10px;
+}
+
+article.container{
+	height:920px;
+}
+.freetext{
+	
+	padding-left: 95px;
+	padding-right: 95px;
+	padding-top:50px;
+	font-size: 30px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+}
+p.maintext{
+	text-align:justify;
+
+}
+#q2{
+	margin-left: 600px;
+	margin-top: 50px;
+	font-size: 30px;
+	width: 500px;
+	text-align: left;
+	
+}
+#a2{
+	margin-left:300px;
+	color:#19241B;
+}
+footer.container{
+	height: 300px;
+}
+
+.sk{
+	font-size:25px;
+	line-height: 2;
+	float: left;
+	width:350px;
+	display:inline-block;
+	
+
+
+}
+pre{
+	margin-right: 50px;
+	text-align: left;
+}
+strong{
+	font-size:35px;
+	color:#786345;
+}
+#workexp{
+	height: 1400px;
+}
+
+.textwork{
+	
+	padding-left: 95px;
+	padding-right: 95px;
+	padding-top:50px;
+	font-size: 27px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+	color:#DED6C4;
+	text-align: left;
+}
+h3{
+	text-align: left;
+	font-size:35px;
+	margin-left: 75px;
+	margin-top: 75px;
+	color:#786345;
+
+}
+#edu{
+	height:750px;
+}
+#cont{
+	height: 200px;
+}
+
+#cnt{
+	width:400px;
+	height: 150px;
+
+	line-height: 2;
+	margin-left: 430px;
+	font-size:22px;
+}
+
+
